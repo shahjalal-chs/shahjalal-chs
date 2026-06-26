@@ -87,20 +87,59 @@ Helping thousands of developers learn programming through YouTube tutorials and 
 ---
 
 ### ⚙️ DevOps
+## 🚀 Tech Stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<p align="left">
 
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker" />
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform" />
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana" />
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx" />
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react" />
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" />
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash" />
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+
+</p>
 
 ---
 
