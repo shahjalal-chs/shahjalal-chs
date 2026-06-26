@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Hi 👋, I'm Shahjalal Rafi
@@ -211,4 +211,3 @@ Helping thousands of developers learn programming through YouTube tutorials and 
 ### 💡 "Great software isn't just built—it is thoughtfully engineered, automated, and continuously improved."
 
 </div>
-```
