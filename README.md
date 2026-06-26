@@ -107,16 +107,26 @@ Helping thousands of developers learn programming through YouTube tutorials and 
 ### Frontend
 
 
-<div align="center">
+<div align="center ">
+  <a>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+  </a>
 
+<a>
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+</a>
 
+<a>
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+</a>
 
+<a>
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+</a>
 
+<a>
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+</a>
 </div>
 ---
 
