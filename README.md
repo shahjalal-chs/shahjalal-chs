@@ -42,41 +42,53 @@ Building scalable web applications, cloud infrastructure, and developer-focused 
 - 🌱 Passionate about Cloud, Kubernetes, System Design & Backend Engineering
 
 ---
-
 # 💼 Professional Experience
 
-## Full Stack Developer
+## 🚀 Full Stack Developer
 ### Cottage Home Care Services (USA)
+**📅 September 2025 – Present**
 
-- Architecting and developing an enterprise Learning Management Platform
-- Deploying applications using AWS, Docker, Nginx and CI/CD
-- Building React Native applications for iOS & Android
-- Implementing workflow automation using n8n
-- Conducting technical interviews
-- Leading projects from architecture to production deployment
+- Leading the development of an enterprise Learning Management Platform integrated with HHA Exchange.
+- Owning the complete project lifecycle—from architecture and development to deployment.
+- Deploying cloud-native applications using **AWS (EC2, S3), Docker, Nginx, and CI/CD**.
+- Building a cross-platform **React Native** application for iOS and Android.
+- Implementing workflow automation using **n8n**.
+- Conducting technical interviews and mentoring junior developers.
 
 ---
 
-## Full Stack Developer
-
+## 💻 Full Stack Developer
 ### Ongshak
+**📅 November 2021 – September 2025**
 
-- Real-time Flight Booking System (GDS Integration)
-- Live Event Booking Platform
-- JWT Authentication
-- Agora Video/Voice Integration
-- RTK Query optimization
-- JavaScript → TypeScript migration
+- Built scalable production-ready frontend architectures using **React**, **Next.js**, and **TypeScript**.
+- Developed a real-time **Flight Booking System** with GDS integration and dynamic pricing.
+- Engineered a live **Event Booking Platform** with seat management and secure payments.
+- Integrated **Agora SDK** for real-time voice and video communication.
+- Implemented secure JWT authentication and optimized data fetching with RTK Query.
+- Contributed to the migration from JavaScript to TypeScript.
 
 ---
 
-## Programming Instructor
+## 🌱 Full Stack Developer (Intern)
+### Xponent
+**📅 August 2021 – October 2021**
 
+- Built SaaS applications using **Next.js** and **Sanity CMS**.
+- Developed reusable frontend components for future projects.
+- Collaborated with senior engineers to deliver client-focused solutions.
+- Participated in requirement analysis and frontend architecture discussions.
+
+---
+
+## 🎓 Programming Instructor & Content Creator
 ### Code ABC
+**📅 October 2021 – Present**
 
-Helping thousands of developers learn programming through YouTube tutorials and community mentorship.
-
----
+- Teaching modern web development and software engineering through YouTube.
+- Helping thousands of developers learn JavaScript, React, Next.js, Node.js, and cloud technologies.
+- Managing a growing developer community through mentorship and technical discussions.
+- Creating high-quality educational content on advanced programming concepts.
 
 # 🚀 Tech Stack
 
