@@ -32,6 +32,17 @@ Building scalable web applications, cloud infrastructure, and developer-focused 
 
 ---
 
+## 👨‍💻 About Me
+
+I'm **Shahjalal Rafi**, a **Full Stack Developer** with a passion for building scalable, cloud-native applications and delivering production-ready software. My expertise spans modern web technologies, backend architecture, cloud infrastructure, and DevOps practices, enabling me to take products from concept to deployment.
+
+Currently, I work as a **Full Stack Developer** at **Cottage Home Care Services**, where I lead the development of enterprise applications, design cloud infrastructure on AWS, build cross-platform mobile applications with React Native, and automate development workflows using Docker, CI/CD, and modern DevOps tools.
+
+Beyond my professional work, I'm an **AWS Community Builder (Containers)** and the creator of **Code ABC**, where I share programming knowledge with thousands of developers through technical tutorials, open-source projects, and community mentorship. I enjoy exploring distributed systems, container orchestration, infrastructure as code, and software architecture while continuously learning and building.
+
+**I enjoy turning complex ideas into reliable, scalable, and user-friendly software.**
+
+
 # 💫 About Me
 
 - 💼 Full Stack Developer with DevOps experience
