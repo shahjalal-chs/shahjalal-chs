@@ -109,7 +109,7 @@ Helping thousands of developers learn programming through YouTube tutorials and 
 
 <div align="center ">
   <a>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+{![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)}
   </a>
 
 <a>
